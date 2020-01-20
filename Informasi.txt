@@ -1,2 +1,0 @@
-Alasan buat aplikasi
-  Aplikasi sitem informasi kepegawaian dengan laravel 5.8

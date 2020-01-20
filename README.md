@@ -1,2 +1,2 @@
-# SistemInformasiKepegawaian
-Aplikasi Latihan Sistem Informasi Kepegawaian
+# Wpu-resolusi
+Resolusi untuk menyimpan rencana wpu kedepannya
